@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 COPY . .
-WORKDIR /usr/src/dsi
+WORKDIR /usr/src/mickeyland
